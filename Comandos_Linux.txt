@@ -1,0 +1,30 @@
+sudo apt install - (SO Debian/Ubuntu)
+sudo yum update - atualizar pacotes do sistema (SO Amazon linux) 
+*por exemplo sudo yum update git - instalar git
+
+mkdir para criar diretórios - mkdir pasta1
+touch para criar arquivos vazios - touch arquivo1
+
+pwd mostrar o diretorio atual
+cp copiar (cp nomeoriginal nomecopia)
+mv mover (mv nome destino)
+rm excluir (rm nome)
+
+Você pode usar editores de texto, como nano, vim ou emacs, para editar arquivos.
+Por exemplo, entre na pasta1 e use o comando nano arquivo2.
+Dentro do arquivo, digite Hello, world!
+Para sair do editor, use as teclas Ctrl e X.
+
+Use o comando cat ou less para visualizar o conteúdo de um arquivo. Exemplo: cat nomedoarquivo.
+Atenção, no caso do less, será aberto um visualizador de arquivos. Para sair dele, digite Q.
+
+df -h para verificar o espaço em disco disponível
+
+free -h para verificar o uso de memória
+
+top para monitorar os processos e recursos de CPU em tempo real
+
+man exibe o manual (documentação) de um comando específico
+
+utilize o comando info para exibir uma lista com todos os principais comandos disponíveis. Para sair da listagem, clique nas teclas CTRL e C
+
